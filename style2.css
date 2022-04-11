@@ -1,0 +1,47 @@
+body {
+  background-color:#b0c4de;
+}
+p{color:	#483D8B}
+img.div100{
+  position: relative;
+}
+h2.h2a{
+  font-size: 32px;
+   color: blue;
+   position:absolute;
+   top:1300px;
+   left:300px;
+      font-style:oblique;
+}
+header{
+background-color:#87CEFA;
+}
+footer{
+background-color:#87CEFA;
+}
+Table
+{
+  background-color:#ffffff;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
